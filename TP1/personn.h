@@ -8,6 +8,7 @@ public:
 	personn(void);
 	~personn(void);
 	void individu(int , string);
+	string hello (int,string);
 
 private:
 
