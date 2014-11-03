@@ -30,6 +30,15 @@
     <ClCompile Include="B.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="personn.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="boat.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MotorBoat.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ArithmeticMethods.h">
@@ -42,6 +51,18 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="B.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Person.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="personn.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="boat.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MotorBoat.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

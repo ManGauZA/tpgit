@@ -63,13 +63,20 @@
     <ClCompile Include="A.cpp" />
     <ClCompile Include="ArithmeticMethods.cpp" />
     <ClCompile Include="B.cpp" />
+    <ClCompile Include="boat.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="MotorBoat.cpp" />
+    <ClCompile Include="personn.cpp" />
     <ClCompile Include="PointersManipulation.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="A.h" />
     <ClInclude Include="ArithmeticMethods.h" />
     <ClInclude Include="B.h" />
+    <ClInclude Include="boat.h" />
+    <ClInclude Include="MotorBoat.h" />
+    <ClInclude Include="Person.h" />
+    <ClInclude Include="personn.h" />
     <ClInclude Include="PointersManipulation.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
