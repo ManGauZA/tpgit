@@ -14,6 +14,8 @@ public:
 	void SetReal(double);
 	void SetIm(double);
 
+	double GetModulus(void);
+
 	~Complex(void);
 };
 

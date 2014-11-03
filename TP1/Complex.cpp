@@ -41,3 +41,10 @@ void Complex::SetIm(double im)
 	_real = im;
 
 }
+
+double Complex::GetModulus(void)
+{
+
+	return 1;
+
+}
